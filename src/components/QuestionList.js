@@ -51,7 +51,7 @@ function QuestionList() {
   ));
   return (
     <section>
-      <h1>Quiz Questions</h1>
+      <h1>Quiz Questions.</h1>
       <ul>{questionItems}</ul>
     </section>
   );
